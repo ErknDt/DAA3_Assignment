@@ -1,0 +1,6 @@
+PASS DSU max: n=100000, items=250000, wall_time_s=0.343
+PASS kruskal max: n=100000, items=250000, wall_time_s=0.241
+PASS prim max: n=100000, items=250000, wall_time_s=0.311
+PASS SCC max: n=100000, items=250000, wall_time_s=0.375
+PASS topo max: n=100000, items=250000, wall_time_s=0.251
+PASS DAG max: n=100000, items=250000, wall_time_s=0.243

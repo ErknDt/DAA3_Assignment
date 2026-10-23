@@ -1,0 +1,12 @@
+reachable 0 -> 3 / selected parent_edge IDs: [-1, 0, 2, 3, -1]
+reachable 0 -> 3: [0, 1, 2, 3] PASS
+route cost: 0 PASS
+source 0 -> 0 / selected parent_edge IDs: [-1, 0, 2, 3, -1]
+source 0 -> 0: [0] PASS
+route cost: 0 PASS
+unreachable 0 -> 4 / selected parent_edge IDs: [-1, 0, 2, 3, -1]
+unreachable 0 -> 4: [] PASS
+tied/parallel 0 -> 3 / selected parent_edge IDs: [-1, 4, 1, 3]
+tied/parallel 0 -> 3: [0, 2, 3] PASS
+route cost: 2 PASS
+ALL ROUTE HELPER TESTS PASSED
